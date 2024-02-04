@@ -9,6 +9,8 @@ First Order Oridinary Differential Equation Solver using RK4 written in c++. Par
 
 *Note*: your equation must be in the form $ {dy \over dt} = f(y,t)$
 
+## Example: 
+![alt text](Capture.PNG) ![alt text](Capture2.PNG)
 
 # How to Build
 1. Make sure Visual Studio is installed
