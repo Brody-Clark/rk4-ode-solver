@@ -7,7 +7,7 @@ First Order Oridinary Differential Equation Solver using RK4 written in c++. Par
 3. Enter the parameters in the indicated text fields and press "Solve"
 
 
-*Note*: your equation must be in the form $ {dy \over dt} = f(y,t)$
+*Note*: your equation must be in the form ${dy \over dt} = f(y,t)$
 
 ## Example: 
 ![alt text](Capture.PNG) ![alt text](Capture2.PNG)
