@@ -15,5 +15,5 @@ First Order Oridinary Differential Equation Solver using RK4 written in c++. Par
 # How to Build
 1. Make sure Visual Studio is installed
 2. Make sure wxWidgets is installed and setup according to the current guide at https://www.wxwidgets.org/.
-3. Make sure Python is installed and .
+3. Make sure Python is installed
 4. open .sln and build
