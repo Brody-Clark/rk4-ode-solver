@@ -33,6 +33,7 @@ y_{n+1} = y_n + \frac{1}{6} (k_1 + 2k_2 + 2k_3 + k_4) \cdot h
 $$
 
 Where:
+
 $$
 y_n \text{ is the current value of the function.}
 $$
